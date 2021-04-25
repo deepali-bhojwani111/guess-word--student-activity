@@ -1,1 +1,1 @@
-# guess-word--student-activity
+# hangman-student-activity
